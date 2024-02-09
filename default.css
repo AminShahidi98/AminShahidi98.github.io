@@ -185,7 +185,7 @@ h6 { font-size: 16px;}
 }
 
 .theme-dot:hover{
-    box-shadow: -1px 1px 3px -1px rgb(154, 154, 154);
+    border-color: #4b5156;
 }
 
 #light-mode{
